@@ -8,4 +8,4 @@ I am a Results-oriented Industrial Engineer with a strong sense of discipline an
 
 ## Projects 
 
-### [QR Detector With Computer Vision and Python ]
+### [QR Detector With Computer Vision and Python ] (https://github.com/catalina-lozano/QR-detector)
