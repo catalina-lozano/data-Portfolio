@@ -9,3 +9,7 @@ I am a Results-oriented Industrial Engineer with a strong sense of discipline an
 ## Projects 
 
 ### [QR Detector With Computer Vision and Python ] (https://github.com/catalina-lozano/QR-detector)
+
+### [Visualization - Power BI Data control board for kindergartens and care homes for the elderly.] (https://app.powerbi.com/view?r=eyJrIjoiYzczZjhhNDItNDJkNy00ODg0LTkzOTktNDIxYjFjZDkxZDg1IiwidCI6ImIzZTMwODA4LWU5YTgtNGYyYS05YmMxLWE3NjBhZTkxMGNmNSIsImMiOjR9&pageName=ReportSectionca978cfe26ec1000371e)
+
+Control panel and data visualization of kindergartens and homes for the elderly for the District Secretariat of Social Integration of Bogota, Colombia.
