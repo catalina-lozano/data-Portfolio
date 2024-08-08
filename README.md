@@ -12,6 +12,8 @@ I am a Results-oriented Industrial Engineer with a strong sense of discipline an
 
 Small Computer Vision Project using cv2 and Numpy in Python
 
+### [Fashion MNIST - Convolutional Neuronal Networks]
+
 ### [Visualization - Power BI Data control board for kindergartens and care homes for the elderly.] (https://bit.ly/3LMPZDQ)
 
 Control panel and data visualization of kindergartens and homes for the elderly for the District Secretariat of Social Integration of Bogota, Colombia.
