@@ -18,7 +18,7 @@ _Fahion MNIST - Image Classification_
 
 Image classification through Convolutional Neural Networks using the Fashion MNIST Dataset containing images of Zalando items.
 
-## [Web Scraping with Google Gemini]
+### [Web Scraping with Google Gemini](https://github.com/catalina-lozano/Webscraping-Gemini)
 
 ### [Visualization - Power BI Data control board for kindergartens and care homes for the elderly](https://bit.ly/3LMPZDQ)
 
