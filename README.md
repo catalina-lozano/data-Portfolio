@@ -12,7 +12,9 @@ I am a Results-oriented Industrial Engineer with a strong sense of discipline an
 
 Computer Vision Project using cv2 and Numpy in Python
 
-### [Hangman game in Pythonh]()
+### [Hangman game in Pythonh](https://github.com/catalina-lozano/Hangman-game?tab=readme-ov-file#hangman-game)
+
+Version of the Hangman game in Python, where the player tries to guess a hidden word by suggesting letters.
 
 ### [Fashion MNIST - Convolutional Neuronal Networks](https://github.com/catalina-lozano/Fashion-CNN)
 
