@@ -12,6 +12,8 @@ I am a Results-oriented Industrial Engineer with a strong sense of discipline an
 
 Computer Vision Project using cv2 and Numpy in Python
 
+### [Hangman game in Pythonh]()
+
 ### [Fashion MNIST - Convolutional Neuronal Networks](https://github.com/catalina-lozano/Fashion-CNN)
 
 _Fahion MNIST - Image Classification_
