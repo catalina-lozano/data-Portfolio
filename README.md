@@ -12,6 +12,9 @@ I am a Results-oriented Industrial Engineer with a strong sense of discipline an
 
 Computer Vision Project using cv2 and Numpy in Python
 
+### [A/B Test Design and Evaluation](https://github.com/catalina-lozano/AB-testing)
+A/B Test Design and evaluation for Eniac's landing page.
+
 ### [Hangman game in Pythonh](https://github.com/catalina-lozano/Hangman-game?tab=readme-ov-file#hangman-game)
 
 Version of the Hangman game in Python, where the player tries to guess a hidden word by suggesting letters.
