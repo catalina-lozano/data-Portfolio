@@ -9,22 +9,22 @@ I’m a results-oriented Data Scientist with a strong sense of discipline and re
 
 ## Projects 
 
-### [WanderPath: Recommended Walking Routes](https://github.com/catalina-lozano/Wander-path)
+### [🚶🏽‍♀️WanderPath: Recommended Walking Routes](https://github.com/catalina-lozano/Wander-path)
 
 Developed a Recommended Walking Routes for Tourists (Bootcamp final project) using Data Collection, Geospatial Data, Recommendation Systems, and optimization techniques for real-world problems.
 
-### [QR Detector With Computer Vision and Python ](https://github.com/catalina-lozano/QR-detector)
+### [🔍QR Detector With Computer Vision and Python ](https://github.com/catalina-lozano/QR-detector)
 
 Computer Vision Project using cv2 and Numpy in Python
 
-### [A/B Test Design and Evaluation](https://github.com/catalina-lozano/AB-testing)
+### [🧪A/B Test Design and Evaluation](https://github.com/catalina-lozano/AB-testing)
 A/B Test Design and evaluation for Eniac's landing page.
 
-### [Hangman Game in Python](https://github.com/catalina-lozano/Hangman-game?tab=readme-ov-file#hangman-game)
+### [🎮Hangman Game in Python](https://github.com/catalina-lozano/Hangman-game?tab=readme-ov-file#hangman-game)
 
 Version of the Hangman game in Python, where the player tries to guess a hidden word by suggesting letters.
 
-### [Fashion MNIST - Convolutional Neural Networks](https://github.com/catalina-lozano/Fashion-CNN)
+### [👚Fashion MNIST - Convolutional Neural Networks](https://github.com/catalina-lozano/Fashion-CNN)
 
 _Fahion MNIST - Image Classification_
 
