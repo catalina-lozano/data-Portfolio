@@ -9,7 +9,7 @@ I’m a results-oriented Data Scientist with a strong sense of discipline and re
 
 ## Projects 
 
-### [WanderPath: Recommended Walking Routes]
+### [WanderPath: Recommended Walking Routes](https://github.com/catalina-lozano/Wander-path)
 
 Developed a Recommended Walking Routes for Tourists (Bootcamp final project) using Data Collection, Geospatial Data, Recommendation Systems, and optimization techniques for real-world problems.
 
