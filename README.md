@@ -1,12 +1,17 @@
 # data-Portfolio
 
-Welcome to my Data Analytics and Machine Learning Portfolio 
+👋 Welcome to my Data Analytics & Machine Learning Portfolio
+Here, you'll find a curated collection of my projects that showcase skills in Python, data analysis, machine learning, A/B testing, SQL, and more.
 
 ## About Me
 
-I am a Results-oriented Industrial Engineer with a strong sense of discipline and responsibility, passionate about transforming data into actionable insights. I am eager to leverage my data science and machine learning skills to contribute dynamic, data-driven insights and lead positive transformations in complex business environments.
+I’m a results-oriented Data Scientist with a strong sense of discipline and responsibility. Passionate about transforming data into actionable insights, I bring expertise in Python, data analytics, and machine learning. I aim to contribute dynamic, data-driven solutions and drive impactful change in complex business environments.
 
 ## Projects 
+
+### [WanderPath: Recommended Walking Routes]
+
+Developed a Recommended Walking Routes for Tourists (Bootcamp final project) using Data Collection, Geospatial Data, Recommendation Systems, and optimization techniques for real-world problems.
 
 ### [QR Detector With Computer Vision and Python ](https://github.com/catalina-lozano/QR-detector)
 
@@ -15,11 +20,11 @@ Computer Vision Project using cv2 and Numpy in Python
 ### [A/B Test Design and Evaluation](https://github.com/catalina-lozano/AB-testing)
 A/B Test Design and evaluation for Eniac's landing page.
 
-### [Hangman game in Pythonh](https://github.com/catalina-lozano/Hangman-game?tab=readme-ov-file#hangman-game)
+### [Hangman Game in Python](https://github.com/catalina-lozano/Hangman-game?tab=readme-ov-file#hangman-game)
 
 Version of the Hangman game in Python, where the player tries to guess a hidden word by suggesting letters.
 
-### [Fashion MNIST - Convolutional Neuronal Networks](https://github.com/catalina-lozano/Fashion-CNN)
+### [Fashion MNIST - Convolutional Neural Networks](https://github.com/catalina-lozano/Fashion-CNN)
 
 _Fahion MNIST - Image Classification_
 
